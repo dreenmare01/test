@@ -1,6 +1,6 @@
 import PIL
 
 print("Hello, world!")
-print()
+print('1243-76666')
 print()
 print()
